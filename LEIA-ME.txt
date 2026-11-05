@@ -1,0 +1,24 @@
+FITCHECK - FICHA ABC AVANÇADA EM CASA
+
+MUDANÇAS:
+- Segunda: treino A (quadríceps/glúteos, incluindo agachamento hack adaptado).
+- Terça e quinta: caminhada 30-40 min.
+- Quarta: treino B (membros superiores completos).
+- Sexta: treino C (posteriores e glúteos).
+- Sábado e domingo: descanso.
+- Série/repetições/ordem iguais à ficha aprovada, substituições de máquinas e orientações técnicas por exercício.
+- Guia de progressão dupla (2 a 5%), timer de descanso, histórico e registro de carga.
+- Botão para aplicar a ficha sem apagar seu histórico de treinos.
+
+COMO ATUALIZAR O SITE:
+1. Salve uma cópia de backup em Progresso > Exportar backup no FitCheck atual.
+2. Substitua os arquivos do seu projeto/hospedagem pelos arquivos deste ZIP; publique a nova versão no mesmo endereço.
+3. Abra FitCheck > Semana > Aplicar ficha ABC em casa. Isto substitui a ficha atual sem apagar o histórico.
+4. Se usar PWA instalado no telefone, feche e reabra para atualizar o conteúdo em cache.
+
+IMPORTAÇÃO:
+- FitCheck-ABC-Importar-na-v2.json funciona no FitCheck v2 por Progresso > Importar backup, mas SUBSTITUI o histórico e os dados existentes. Exporte backup antes.
+- FitCheck-ABC-Importar-na-v3.json funciona com a NOVA versão por Progresso > Importar backup e troca somente a ficha, mantendo histórico e configurações.
+- Não se deve importar um ZIP diretamente na tela de backup: ela aceita JSON.
+
+Esta entrega altera arquivos do projeto para você publicar; não publica automaticamente seu site ao vivo.

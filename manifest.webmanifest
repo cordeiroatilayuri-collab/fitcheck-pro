@@ -1,0 +1,13 @@
+{
+  "name":"FitCheck — Meu Treino",
+  "short_name":"FitCheck",
+  "description":"Treinos, cargas, descanso e progresso semanal.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#080a0f",
+  "theme_color":"#ff3b7c",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
