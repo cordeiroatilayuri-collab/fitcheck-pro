@@ -1,13 +1,16 @@
 {
-  "name":"FitCheck — Meu Treino",
-  "short_name":"FitCheck",
-  "description":"Treinos, cargas, descanso e progresso semanal.",
-  "start_url":"./",
+  "name":"FitCheck PRO — Seu treino. Seu ritmo.",
+  "short_name":"FitCheck PRO",
+  "description":"Exercícios, vídeos, treinos ABC, academia e casa, progressão e nutrição manual.",
+  "start_url":"./index.html",
+  "scope":"./",
+  "id":"./index.html",
   "display":"standalone",
-  "background_color":"#080a0f",
-  "theme_color":"#ff3b7c",
+  "background_color":"#0b1115",
+  "theme_color":"#0b1115",
+  "lang":"pt-BR",
   "icons":[
-    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
-    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
